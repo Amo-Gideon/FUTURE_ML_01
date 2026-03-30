@@ -4,7 +4,7 @@ Future Interns | Machine Learning Internship
 Intern: Appau Gideon Kofi Amo
 University: USTC | MSc Software Engineering (AI/ML)
 Track: Machine Learning (ML)
-CIN ID: SL24225010
+CIN ID: FIT/MAR26/ML6450
 Status: Completed
 
 ## Project Overview
